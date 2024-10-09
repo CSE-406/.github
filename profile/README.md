@@ -4,7 +4,7 @@
 ## Team Members
 | Role | Name | Organization | Email |
 |------|-------|-------|-------|
-| Development Manager | Jun Seong Pyo | Department of Information Systems, College of Engineering, Hanyang University | standardstar@hanyang.ac.kr |
+| Development Manager | Jun Seong Pyo | Department of Information Systems, College of Engineering, Hanyang University | standardstar@hanyang.ac.kr |
 | Software Developer (Front-end) | Hye Jin Bae | Department of Information Systems, College of Engineering, Hanyang University | cats5565@hanyang.ac.kr |
 | AI Developer | Byeong Hyun Yang | Department of Information Systems, College of Engineering, Hanyang University | zxvm5962@hanyang.ac.kr |
 | Software Developer (Back-end) | Dong Hun Kang | Department of Information Systems, College of Engineering, Hanyang University | kdu3840@hanyang.ac.kr |
