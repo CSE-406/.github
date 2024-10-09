@@ -1,4 +1,4 @@
-# AIfred: An AI-Driven Multi-Agent Chat System
+# AIfred: An AI-Driven Multi-Agent Chat System for Intuitive Smart Home Management
 > 24-2 한양대학교 소프트웨어공학
 
 ## Team Members
