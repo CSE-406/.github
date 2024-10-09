@@ -16,13 +16,13 @@ AIfred's core feature is its AI-driven chat interface, where users can communica
 The application also incorporates a feedback mechanism, including a star rating system and text-based comments. This data is used to continuously improve the AI's performance and personalize recommendations. By integrating AI-driven control, customizable scenarios, and user-friendly interfaces, AIfred aims to offer a more adaptive and efficient smart home experience, representing a significant advancement in home automation technology.
 
 ## Architecture Design
-// 아키텍처를 첨부합니다.
+TBD
 
 ## Vidoes
-// 비디오를 첨부합니다.
+TBD
 
 ## Comments
-// 코멘트를 작성합니다.
+TBD
 
 ## Contributers
-// 팀원을 작성합니다.
+TBD
