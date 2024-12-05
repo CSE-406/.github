@@ -16,7 +16,8 @@ ALIVE's core feature is its AI-driven chat interface, where users can communicat
 The application also incorporates a feedback mechanism, including a star rating system and text-based comments. This data is used to continuously improve the AI's performance and personalize recommendations. By integrating AI-driven control, customizable scenarios, and user-friendly interfaces, ALIVE aims to offer a more adaptive and efficient smart home experience, representing a significant advancement in home automation technology.
 
 ## Architecture Design
-TBD
+![KakaoTalk_Photo_2024-12-05-13-06-47](https://github.com/user-attachments/assets/8adf1d44-2c7b-44a7-841b-88ec362e51ad)
+
 
 ## Vidoes
 TBD
