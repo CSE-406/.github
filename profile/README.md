@@ -4,7 +4,7 @@
 ![Frame 5049](https://github.com/user-attachments/assets/397ce825-0f39-495e-ba03-d05dd81cdd6d)
 <br/>
 
-## 👫🏻 Team <Integral> Members
+## 👫🏻 Team /<Integral/> Members
 | Name | Organization | Email |
 |-------|-------|-------|
 | Jun Seong Pyo | Department of Information Systems, College of Engineering, Hanyang University | standardstar@hanyang.ac.kr |
