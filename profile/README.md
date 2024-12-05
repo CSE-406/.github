@@ -7,7 +7,7 @@
 
 ## 👫🏻 Team[Integral] Members
 | Name | Organization | Email |
-|-------|-------|-------|-------|
+|-------|-------|-------|
 | Jun Seong Pyo | Department of Information Systems, College of Engineering, Hanyang University | standardstar@hanyang.ac.kr |
 | Hye Jin Bae | Department of Information Systems, College of Engineering, Hanyang University | cats5565@hanyang.ac.kr |
 | Byeong Hyun Yang | Department of Information Systems, College of Engineering, Hanyang University | zxvm5962@hanyang.ac.kr |
