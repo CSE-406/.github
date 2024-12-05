@@ -22,7 +22,7 @@ We propose ALIVE, an innovative smart home management application that addresses
 
 
 ## Vidoes
-TBD
+[![ALIVWE](https://img.youtube.com/vi/ayG-c1g9_0M/0.jpg)](https://www.youtube.com/watch?v=ayG-c1g9_0M)
 
 ## Comments
 TBD
