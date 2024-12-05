@@ -6,8 +6,8 @@
 
 
 ## ✔️ Proposal
-We propose AI-driven multi-chat system, ALIVE. ALIVE is a smart home solution that users control appliances through conversation. Users can register appliances and create chat roos, allowing then to build a customized smart home environment. In chat room, Users can chat with appliances. When Users make natural language queries, the system analyzes them to execute the most appropriate appliance actions. The core technology of ALIVE is an AI-based chat system powered by Large Language Models (LLM). ALIVE leverages dialogue state traking technology to understand the context and user intent, providing a more intuitive and personalized smart home experience.
-
+We propose AI-driven multi-chat system, ALIVE. ALIVE is a smart home solution that allows users to control appliances through everyday conversation. Users can register appliances and create chat rooms, allowing them to build a customized smart home environment. In chat rooms, users can freely communicate with their desired appliances using various interaction methods - from direct commands to indirect expressions, and even control multiple devices simultaneously.
+The core technology of ALIVE is an AI-based chat system powered by Large Language Models (LLM). ALIVE leverages dialogue state tracking technology to understand the context and user intent, providing a more intuitive and personalized smart home experience.
 <br/><br/>
 
 
