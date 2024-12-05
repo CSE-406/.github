@@ -1,7 +1,7 @@
 # ALIVE: An AI-Driven Multi-Agent Chat System for Intuitive Smart Home Management
 > 24-2 한양대학교 소프트웨어공학
 
-![Frame 5049](https://github.com/user-attachments/assets/8bb820af-ff79-4b00-b4ed-6264d658b477)
+![Frame 5049](https://github.com/user-attachments/assets/397ce825-0f39-495e-ba03-d05dd81cdd6d)
 
 
 ## Team Members
