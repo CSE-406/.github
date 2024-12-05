@@ -23,7 +23,9 @@ We propose ALIVE, an innovative smart home management application that addresses
 
 ## Vidoes
 [🔗ALIVE 소개 영상 보러가기(클릭)🔗](https://www.youtube.com/watch?v=ayG-c1g9_0M)
-
+<a href="https://www.youtube.com/watch?v=ayG-c1g9_0M">
+    <img src="https://img.youtube.com/vi/ayG-c1g9_0M/0.jpg" width="400" alt="ALIVE 소개 영상 보러가기">
+</a>
 ## Comments
 TBD
 
