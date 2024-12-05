@@ -19,7 +19,7 @@ We propose ALIVE, an innovative smart home management application that addresses
 or Click below Image 👇
 <br/>
 <a href="https://www.youtube.com/watch?v=ayG-c1g9_0M">
-<img width="932" alt="KakaoTalk_Photo_2024-12-03-23-17-46" src="https://github.com/user-attachments/assets/27ad64c0-b7f0-4332-9440-5805b3faad32">
+<img width="100%" alt="KakaoTalk_Photo_2024-12-03-23-17-46" src="https://github.com/user-attachments/assets/27ad64c0-b7f0-4332-9440-5805b3faad32">
 </a>
 <br/>
 
