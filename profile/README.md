@@ -13,7 +13,7 @@ The core technology of ALIVE is an AI-based chat system powered by Large Languag
 
 
 ## 🔧 Architecture Design
-![KakaoTalk_Photo_2024-12-05-13-06-47](https://github.com/user-attachments/assets/8adf1d44-2c7b-44a7-841b-88ec362e51ad)
+![image](https://github.com/user-attachments/assets/511b765d-2267-402d-b909-2f8c37225c2e)
 <br/><br/>
 
 
