@@ -20,7 +20,7 @@ The core technology of ALIVE is an AI-based chat system powered by Large Languag
 ## 🎥 Vidoes
 [🔗 Click below Image 👇 🔗](https://youtu.be/qRJ9v7GVWLA)
 <br/>
-<a href="[https://www.youtube.com/watch?v=ayG-c1g9_0M](https://youtu.be/qRJ9v7GVWLA)">
+<a href="https://youtu.be/qRJ9v7GVWLA">
 ![KakaoTalk_Photo_2024-12-03-23-17-46 1](https://github.com/user-attachments/assets/29976e9a-efa9-468c-a588-56b2a9670923)
 </a>
 <br/><br/>
